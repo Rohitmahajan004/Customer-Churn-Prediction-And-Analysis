@@ -263,4 +263,4 @@ with col2:
                 st.error('Prediction error: '+str(e))
 
 st.markdown('---')
-st.caption('App created by ChatGPT — drop me a message if you want extra features like SHAP explanations, dashboards, or Streamlit Cloud deployment files.')
+st.caption('App created by Rohit Mahajan — ')
