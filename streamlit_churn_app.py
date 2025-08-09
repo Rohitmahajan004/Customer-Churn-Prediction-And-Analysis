@@ -44,7 +44,7 @@ FEATURES = [
 ]
 
 @st.cache_data
-def load_model(path='models/best_churn_model.pkl'):
+def load_model(path='best_churn_model.pkl'):
     try:
         m = joblib.load(path)
         return m
